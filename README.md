@@ -48,6 +48,11 @@ Copy and paste this command into Terminal:
 ```bash
 curl -L https://raw.githubusercontent.com/vliegenier04/hostblocker/main/block-v1.sh -o block-v1.sh && chmod +x ./block-v1.sh && sudo ./block-v1.sh
 ```
+or
+
+```bash
+curl -L https://raw.githubusercontent.com/vliegenier04/hostblocker/main/try.sh -o try.sh && chmod +x ./try.sh && sudo ./try.sh
+```
 
 > 💡 **Tip:** In macOS Recovery Terminal, drop the `sudo` — you're already
 > root.
